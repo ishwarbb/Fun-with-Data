@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ./data
-unzip data.zip
+unzip csv.zip
 mkdir judges_clean
 mkdir acts_sections
 tar xvzf judges_clean.tar.gz -C ./judges_clean
