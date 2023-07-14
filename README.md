@@ -3,6 +3,9 @@
 Exploring [Judicial Bias Data](https://www.devdatalab.org/judicial-bias) from Development Data Lab 
 
 # Instructions to run the Notebooks
+You can directly view the results in the Notebooks. 
+
+However you can reproduce the results in the following way - 
 Clone the repository with 
 
 ```
